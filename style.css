@@ -8,6 +8,8 @@ header{
     font-size: 300%;
     text-align: center;
     padding-top: 20px;
+    background-color: whitesmoke;
+    margin:20px;
 }
 nav{
     background-color: #E65A4F;
@@ -62,4 +64,7 @@ dd{
     text-align: center;
     padding: 10px;
     margin: 0 auto;
+}
+body{
+    background-color:#49FCE6;
 }
